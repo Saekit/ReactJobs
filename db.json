@@ -1,0 +1,74 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "name": "Google",
+      "jobType": "Part-Time",
+      "status": "Pending 😐",
+      "logo": "http://www.stickpng.com/assets/images/5847f9cbcef1014c0b5e48c8.png"
+    },
+    {
+      "id": 2,
+      "name": "Netflix",
+      "jobType": "Full-Time",
+      "status": "Interviewing 😏",
+      "logo": "https://seeklogo.com/images/N/netflix-logo-6A5D357DF8-seeklogo.com.png"
+    },
+    {
+      "id": 3,
+      "name": "Youtube",
+      "jobType": "Full-Time",
+      "status": "Pending 😐",
+      "logo": "http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c545.png"
+    },
+    {
+      "id": 4,
+      "name": "Yahoo",
+      "jobType": "Full-Time",
+      "status": "Denied 😭",
+      "logo": "https://images.vexels.com/media/users/3/137423/isolated/preview/6d269eba75e6a31a39e807e0da2e214e-yahoo-icon-logo-by-vexels.png"
+    },
+    {
+      "id": 5,
+      "name": "Microsoft",
+      "jobType": "Part-Time",
+      "status": "Interviewing 😏",
+      "logo": "http://temperfield.com/wp-content/uploads/2017/09/Microsoft-Logo-icon-png-Transparent-Background.png"
+    },
+    {
+      "id": 6,
+      "name": "Flatiron School",
+      "jobType": "Part-Time",
+      "status": "Pending 😐",
+      "logo": "http://www.digital.nyc/sites/default/files/company/logo/b07d0f-FS_Circle_Slashes.png"
+    },
+    {
+      "id": 7,
+      "name": "Verizon",
+      "jobType": "Part-Time",
+      "status": "Pending 😐",
+      "logo": "https://cblproperty.blob.core.windows.net/production/assets/bltaed31fb04ee12d66-VerizonWireless_5431.png"
+    },
+    {
+      "id": 8,
+      "name": "Apple",
+      "jobType": "Part-Time",
+      "status": "Offer 🤩",
+      "logo": "https://diylogodesigns.com/wp-content/uploads/2016/04/Apple-Logo-Png-Download-768x950.png"
+    },
+    {
+      "id": 9,
+      "name": "Facebook",
+      "jobType": "Full-Time",
+      "status": "Interviewing 😏",
+      "logo": "https://www.freeiconspng.com/uploads/facebook-logo-facebook-logo-9.png"
+    },
+    {
+      "id": 10,
+      "name": "Amazon",
+      "jobType": "Contract",
+      "status": "Offer 🤩",
+      "logo": "https://merivisfoundation.org/wp-content/uploads/2018/02/Amazon-Logo-Transparent-PNG.png"
+    }
+  ]
+}
