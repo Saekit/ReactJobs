@@ -1,16 +1,15 @@
-import React from 'react';
+import React from "react";
 
-const jobCard = (props) => {
-  return(
+const jobCard = () => {
+  return (
     <div className="jobCard">
-      <img className="logo" src={props.job.logo} alt="logo"/>
-    <h1>Company Name: {props.job.name}</h1>
-    <h2>Job Type: {props.job.jobType}</h2>
-    <h3>Status: {props.job.status}</h3>
-    <button className="button" onClick={e => props.detailsHandler(props.job)}>See More</button>
-    
+      <img className="logo" src={/*render logo*/} alt="logo" />
+      <h1>Company Name: {/*render name*/}</h1>
+      <h2>Job Type: {/*render type */}</h2>
+      <h3>Status: {/*render status */}</h3>
+      <button className="button">See More</button>
     </div>
-  )
-}
+  );
+};
 
-export default jobCard
+export default jobCard;

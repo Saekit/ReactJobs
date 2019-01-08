@@ -17,6 +17,3 @@ Deliverables:
 3. The job details component should again show the logo, company name, job type and status.
 4. When clicking on the "edit button" in the job details section, it should send the job to the edit form.
 5. Users should be able to change everything about the job and when the "change button" is clicked, it should persist into the database and rerender the edited job.
-
-
-test
