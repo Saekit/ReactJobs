@@ -5,6 +5,7 @@ You're all graduated from Flatiron School and it is time to find a job.
 the database of current jobs on your list is in a json-server under http://localhost:3000/jobs. To start, do the following commands
 
 TO INSTALL SERVER: npm install -g json-server
+
 TO START SERVER: json-server --watch db.json
 
 TO START REACT APP: npm start
